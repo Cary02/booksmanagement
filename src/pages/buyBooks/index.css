@@ -1,0 +1,50 @@
+.buyWrap {
+  height: calc(70vh);
+  background-color: #fff;
+  padding-top: 50px;
+}
+.buyWrap .buyContainer {
+  width: 1000px;
+  margin: 0 auto ;
+  background-color: #fff;
+}
+.buyWrap .buyContainer img {
+  width: 100%;
+}
+.buyWrap .buyContainer p {
+  font-size: 16px;
+  text-align: start;
+  padding: 20px 30px 0 20px;
+}
+.buyWrap .buyContainer .priceWrap {
+  width: 85%;
+  height: 80px;
+  padding-left: 20px;
+  line-height: 80px;
+  background-color: #eee;
+  margin: 0 auto;
+}
+.buyWrap .buyContainer .priceWrap .money {
+  font-size: 28px;
+  padding-left: 40px;
+  color: red;
+}
+.buyWrap .buyContainer .tb_skin {
+  width: 85%;
+  padding: 30px 0 0 20px;
+  margin: 0 auto;
+}
+.buyWrap .buyContainer .tb_skin span {
+  margin-right: 20px;
+}
+.buyWrap .buyContainer .skin_btn {
+  width: 85%;
+  padding: 30px 0 0 14px;
+  margin: 0 auto;
+}
+.buyWrap .buyContainer .skin_btn .ant-btn-danger {
+  width: 125px;
+  margin-right: 20px;
+  height: 40px;
+}
+/*# sourceMappingURL=index.css.map */
